@@ -167,7 +167,6 @@ In which book did someone think a town was a lot like their home town? 118}Baref
 In which book did someone not want to beg? 122}Barefoot Dreams of Petra Luna by Alda P. Dobbs
 In which book had someone never seen a train up close? 129}Barefoot Dreams of Petra Luna by Alda P. Dobbs
 In which book did someone not see or hear a vehicle of transportation? 97}Barefoot Dreams of Petra Luna by Alda P. Dobbs
-In }Barefoot Dreams of Petra Luna by Alda P. Dobbs
 In which book was the ship secretly on fire? 23}Iceberg by Jennifer A Nielsen
 In which book did the crew panic and ditch the ship before any of the passengers? 27}Iceberg by Jennifer A Nielsen
 In which book did an old lady need help down the stairs 39}Iceberg by Jennifer A Nielsen
@@ -1026,4 +1025,5 @@ In which book do you have to pass a test to get into middle and high school? 96}
 In which book does a character say being a teacher is not a real job? 131}When Stars Are Scattered by Victoria Jamieson & Omar Mohamed
 In which book does the protagonist and their brother get resettled to America? 250}When Stars Are Scattered by Victoria Jamieson & Omar Mohamed
 In which book does someone get a bottle of sand as a gift? 251}When Stars Are Scattered by Victoria Jamieson & Omar Mohamed
+In which book is there a boy that the only word they have ever said is hoyo? 248}When Stars Are Scattered by Victoria Jamieson & Omar Mohamed
 In which book is there a boy that the only word they have ever said is hoyo? 248}When Stars Are Scattered by Victoria Jamieson & Omar Mohamed
