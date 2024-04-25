@@ -405,7 +405,7 @@ In which book does a character have a pile of overdue books on their desk? 10}Ma
 In which book is a character reading the biography of Mae Jemison? 10}Maya and the Robot by Eve L. Ewing
 In which book does a character consider studying adult responses to caffeine? 11}Maya and the Robot by Eve L. Ewing
 A character in which book can't wait to be in 7th grade? 16}Maya and the Robot by Eve L. Ewing
-"""The best there ever was. The best there will ever be."" This is a phrase a character is obsessed with in which book? 19}Maya and the Robot by Eve L. Ewing"
+"The best there ever was. The best there will ever be." This is a phrase a character is obsessed with in which book? 19}Maya and the Robot by Eve L. Ewing
 A teacher was first a chemist in which book? 22}Maya and the Robot by Eve L. Ewing
 In which book is a teacher known for making a kid write a 10 page report after catching him stick gum under a desk? 23}Maya and the Robot by Eve L. Ewing
 In which book is there a sign that says WE MAKE KEYS!!!! 38}Maya and the Robot by Eve L. Ewing
@@ -468,7 +468,7 @@ In which book do different nations come together to help people? 108}Rising Wate
 In which book is there a difference between solo brilliance and collaboration? 109}Rising Water: the Story of the Thai Cave rescue by Marc Aronson
 In which book does a character learn that "acting without sufficiently thinking can really impact us in not only the short term, but also the long term?" 104}Rising Water: the Story of the Thai Cave rescue by Marc Aronson
 In which book is international collaboration stressed in order to explore space? 108}Rising Water: the Story of the Thai Cave rescue by Marc Aronson
-"""Writing can open eyes, open hearts, open borders"" is stated in which book? 112}Rising Water: the Story of the Thai Cave rescue by Marc Aronson"
+"Writing can open eyes, open hearts, open borders" is stated in which book? 112}Rising Water: the Story of the Thai Cave rescue by Marc Aronson
 Understanding what information is treated as important and unimportant is a topic we all need to consider is from which book? 121}Rising Water: the Story of the Thai Cave rescue by Marc Aronson
 In which book did a kid build a cannon ? 5 }The Blackthorn Key by Kevin Sands
 In which book did they use a code ? 11}The Blackthorn Key by Kevin Sands
@@ -718,7 +718,7 @@ In which book is someone called a "Quaker" 65\}The Mostly True Adventures of Hom
 A character says thats quite a story in which book?109}The Mostly True Adventures of Homer P. Figg by Rodman Philbrick
 In which book is a character learning Tamil? 3}The Mysterious Benedict Society by Trenton Lee Stewart
 In which book is the protagonist's favorite dessert cheesecake? 5}The Mysterious Benedict Society by Trenton Lee Stewart
-"""Are you brave"" is a test question the main character receives in which book? 10}The Mysterious Benedict Society by Trenton Lee Stewart"
+"Are you brave" is a test question the main character receives in which book? 10}The Mysterious Benedict Society by Trenton Lee Stewart
 In which book does a character break a pencil in half in order for two people to take a test? 16}The Mysterious Benedict Society by Trenton Lee Stewart
 In which book does a girl cheat on a important test and then offer another person the answers? 17}The Mysterious Benedict Society by Trenton Lee Stewart
 In which book is a child completely bald? 32}The Mysterious Benedict Society by Trenton Lee Stewart
